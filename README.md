@@ -65,3 +65,7 @@ The Caesar cipher is a historical cipher and is very easy to break. It is a lear
 ## Author
 
 Built while learning Python fundamentals: functions, loops, and the `ord()` and `chr()` functions.
+
+## Regards
+
+Hasham Hameed
